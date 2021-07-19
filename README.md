@@ -10,35 +10,15 @@
 --------------------------------- Sprint 6
 
   <h1>Vinicius:</h1>
-  <li>
-    <ul>
-      Refatoracao para TipeScript
-    </ul>
-  </li>
-  <li>
-    <ul>
-      Requisicao GET para api resolveip.
-    </ul>
-  </li>
+  <li><ul>Refatoracao para TipeScript</ul></li>
+  <li><ul>Requisicao GET para api resolveip.</ul></li>
   
   <h1>#Leonardo:</h1>
-  <li>
-    <ul>
-      Testes 3 entidades(usuario,tipo,item).
-    </ul>
-  </li>
-   <li>
-    <ul>
-      Refatoracao para TipeScript(entidades reserva e itemUsuario).
-    </ul>
-  </li>
+  <li><ul>Testes 3 entidades(usuario,tipo,item).</ul></li>
+  <li><ul>Refatoracao para TipeScript(entidades reserva e itemUsuario).</ul></li>
   
   <h1>#Gustavo:</h1>
-  <li>
-    <ul>
-      Testes 2 entidades(Login,itemUsuario).
-    </ul>
-  </li>
+  <li><ul>Testes 2 entidades(Login,itemUsuario).</ul></li>
 
 -------------------------------------------- Sprint 5
 #Vinicius:
