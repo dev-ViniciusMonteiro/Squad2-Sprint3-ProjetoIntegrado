@@ -15,7 +15,7 @@
       Refatoracao para TipeScript
       Requisicao GET para api resolveip.
     </ul>
-  <li>
+  </li>
   
   <h1>#Leonardo:</h1>
   <li>
@@ -23,14 +23,14 @@
       Testes 3 entidades(usuario,tipo,item).
       Refatoracao para TipeScript(entidades reserva e itemUsuario).
     </ul>
-  <li>
+  </li>
   
   <h1>#Gustavo:</h1>
   <li>
     <ul>
       Testes 2 entidades(Login,itemUsuario).
     </ul>
-  <li>
+  </li>
 
 -------------------------------------------- Sprint 5
 #Vinicius:
