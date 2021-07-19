@@ -8,17 +8,30 @@
    2. Projeto integrado da squade 2 na sprint 6 
 
 --------------------------------- Sprint 6
-#Vinicius:
-  -Refatoracao para TipeScript
-  -Requisicao GET para api resolveip.
- 
-#Leonardo:
-  -Testes 3 entidades(usuario,tipo,item).
-  -Refatoracao para TipeScript(entidades reserva e itemUsuario).
- 
-#Gustavo:
-  -Testes 2 entidades(Login,itemUsuario).
-
+<ol>
+  <h1>Vinicius:</h1>
+  <li>
+    <ul>
+      Refatoracao para TipeScript
+      Requisicao GET para api resolveip.
+    </ul>
+  <li>
+  
+  <h1>#Leonardo:</h1>
+  <li>
+    <ul>
+      Testes 3 entidades(usuario,tipo,item).
+      Refatoracao para TipeScript(entidades reserva e itemUsuario).
+    </ul>
+  <li>
+  
+  <h1>#Gustavo:</h1>
+  <li>
+    <ul>
+      Testes 2 entidades(Login,itemUsuario).
+    </ul>
+  <li>
+</ol>
 -------------------------------------------- Sprint 5
 #Vinicius:
  -Implementou LOG
