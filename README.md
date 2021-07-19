@@ -13,6 +13,10 @@
   <li>
     <ul>
       Refatoracao para TipeScript
+    </ul>
+  </li>
+  <li>
+    <ul>
       Requisicao GET para api resolveip.
     </ul>
   </li>
@@ -21,6 +25,10 @@
   <li>
     <ul>
       Testes 3 entidades(usuario,tipo,item).
+    </ul>
+  </li>
+   <li>
+    <ul>
       Refatoracao para TipeScript(entidades reserva e itemUsuario).
     </ul>
   </li>
