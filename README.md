@@ -8,7 +8,7 @@
    2. Projeto integrado da squade 2 na sprint 6 
 
 --------------------------------- Sprint 6
-<ol>
+
   <h1>Vinicius:</h1>
   <li>
     <ul>
@@ -31,7 +31,7 @@
       Testes 2 entidades(Login,itemUsuario).
     </ul>
   <li>
-</ol>
+
 -------------------------------------------- Sprint 5
 #Vinicius:
  -Implementou LOG
