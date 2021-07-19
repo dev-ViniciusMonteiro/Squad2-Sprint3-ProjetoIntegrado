@@ -4,23 +4,25 @@
 ## *Projeto da sprint 6 esta na Branch TypeScript*
 Projeto integrado da squade 2 na sprint 3
 
-------------------------------------------- TypeScript:
-Modelos .env e .env.test:
-.env:   CHAVE_JWT                                                                                                                                              
+------------------------------------------- TypeScript:                                                                                                           
+Modelos .env e .env.test:                                                                                                                                      
+   .env:                                                                                                                                                           
+        CHAVE_JWT                                                                                                                                                
         DB_USER                                                                                                                                                
         DB_PASSWORD                                                                                                                                              
         DB_DATABASE                                                                                                                                        
         DB_PORT                                                                                                                                                 
         DB_HOST                                                                                                                                                
                                                                                                                                             
-.env.test:  DB_USER_TEST                                                                                                                                        
-            DB_PASSWORD_TEST                                                                                                                                      
-            DB_DATABASE_TEST                                                                                                                                      
-            DB_PORT_TEST                                                                                                                                           
-            DB_HOST_TEST                                                                                                                                          
-            USER_ADMIN_CPF                                                                                                                                 
-            USER_CPF                                                                                                                                          
-            CHAVE_JWT                                                                                                                                             
+   .env.test:                                                                                                                                                
+        DB_USER_TEST                                                                                                                                        
+        DB_PASSWORD_TEST                                                                                                                                      
+        DB_DATABASE_TEST                                                                                                                                      
+        DB_PORT_TEST                                                                                                                                           
+        DB_HOST_TEST                                                                                                                                          
+        USER_ADMIN_CPF                                                                                                                                 
+        USER_CPF                                                                                                                                          
+        CHAVE_JWT                                                                                                                                             
          
 -------------------------------------------------------
 Utilizamos o database chamado "controle"
