@@ -1,8 +1,28 @@
 # Squad2-Sprint3-ProjetoIntegrado
 ## *Projeto da sprint 4 esta na Branch TypeScript*
 ## *Projeto da sprint 5 esta na Branch TypeScript*
+## *Projeto da sprint 6 esta na Branch TypeScript*
 Projeto integrado da squade 2 na sprint 3
 
+------------------------------------------- TypeScript:
+Modelos .env e .env.test:
+.env:   CHAVE_JWT                                                                                                                                              
+        DB_USER                                                                                                                                                
+        DB_PASSWORD                                                                                                                                              
+        DB_DATABASE                                                                                                                                        
+        DB_PORT                                                                                                                                                 
+        DB_HOST                                                                                                                                                
+                                                                                                                                            
+.env.test:  DB_USER_TEST                                                                                                                                        
+            DB_PASSWORD_TEST                                                                                                                                      
+            DB_DATABASE_TEST                                                                                                                                      
+            DB_PORT_TEST                                                                                                                                           
+            DB_HOST_TEST                                                                                                                                          
+            USER_ADMIN_CPF                                                                                                                                 
+            USER_CPF                                                                                                                                          
+            CHAVE_JWT                                                                                                                                             
+         
+-------------------------------------------------------
 Utilizamos o database chamado "controle"
 O comando para conseguir rodar todas as migrations use o "npx sequelize-cli db:migrate"
 O comando para conseguir deletar todas as migrations use o "npx sequelize-cli db:migrate:undo:all"
