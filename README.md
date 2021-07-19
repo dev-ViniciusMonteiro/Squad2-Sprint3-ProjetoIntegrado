@@ -3,16 +3,30 @@
   <h2>API para controle de salas</h2>
 </h1>
 
-# Squad2-Sprint3-ProjetoIntegrado 
-## Projeto integrado da squade 2 na sprint 5
+### Squad2-Sprint3-ProjetoIntegrado 
+   1. Projeto integrado da squade 2 na sprint 5 
+   2. Projeto integrado da squade 2 na sprint 6 
 
-Vinicius:
+--------------------------------- Sprint 6
+#Vinicius:
+  -Refatoracao para TipeScript
+  -Requisicao GET para api resolveip.
+ 
+#Leonardo:
+  -Testes 3 entidades(usuario,tipo,item).
+  -Refatoracao para TipeScript(entidades reserva e itemUsuario).
+ 
+#Gustavo:
+  -Testes 2 entidades(Login,itemUsuario).
+
+-------------------------------------------- Sprint 5
+#Vinicius:
  -Implementou LOG
  
-Leonardo:
+#Leonardo:
  -Implementou Kubernets
  
-Gustavo:
+#Gustavo:
  -Melhoria no tratamento
  
 Obs: Variaveis de ambiente que estao no .env!!!
