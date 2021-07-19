@@ -1,7 +1,7 @@
-# Squad2-Sprint3-ProjetoIntegrado
-<h1><a href="https://github.com/dev-ViniciusMonteiro/Squad2-Sprint3-ProjetoIntegrado/tree/TypeScript"> *Projeto da sprint 4 esta na Branch TypeScript* </a></h1>
-<h1><a href="https://github.com/dev-ViniciusMonteiro/Squad2-Sprint3-ProjetoIntegrado/tree/TypeScript">*Projeto da sprint 5 esta na Branch TypeScript*</a></h1>
-<h1><a href="https://github.com/dev-ViniciusMonteiro/Squad2-Sprint3-ProjetoIntegrado/tree/TypeScript">*Projeto da sprint 6 esta na Branch TypeScript*</a></h1>
+<h1> *Squad2-Sprint3-ProjetoIntegrado* </h1>
+<h3><a href="https://github.com/dev-ViniciusMonteiro/Squad2-Sprint3-ProjetoIntegrado/tree/TypeScript"> *Projeto da sprint 4 esta na Branch TypeScript* </a></h3>
+<h3><a href="https://github.com/dev-ViniciusMonteiro/Squad2-Sprint3-ProjetoIntegrado/tree/TypeScript">*Projeto da sprint 5 esta na Branch TypeScript*</a></h3>
+<h3><a href="https://github.com/dev-ViniciusMonteiro/Squad2-Sprint3-ProjetoIntegrado/tree/TypeScript">*Projeto da sprint 6 esta na Branch TypeScript*</a></h3>
 
 
 ## 
